@@ -65,7 +65,7 @@ financial transactions, sovereignty, and immunity.*
     Link: The United Nations’ Audiovisual Library of International Law:
     Benedict Kingsbury’s “[What, How, and Who Should Public
     International Law Regulate? New Problems of Global Administrative
-    Governance](https://web.archive.org/web/20131015141525/http://untreaty.un.org/cod/avl/ls/Kingsbury_IL.html)”
+    Governance](http://legal.un.org/avl/ls/Kingsbury_IL.html#)”
     (RealPlayer Video)  
         
      Instructions: Click on the link titled “Video” in the middle of the
